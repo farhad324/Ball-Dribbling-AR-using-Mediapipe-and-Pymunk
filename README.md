@@ -1,1 +1,1 @@
-# Ball-Driblling-using-Mediapipe-and-Pymunk
+# Ball-Dribbling-using-Mediapipe-and-Pymunk
